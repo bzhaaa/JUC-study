@@ -1,4 +1,4 @@
-package org.bzh.thread;
+package org.bzh.juc.thread;
 
 
 import org.slf4j.LoggerFactory;
